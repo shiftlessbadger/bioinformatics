@@ -1,1 +1,1 @@
-# bioinformatics
+Repository for Bioinformatics Course
